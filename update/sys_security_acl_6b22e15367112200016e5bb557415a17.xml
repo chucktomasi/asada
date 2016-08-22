@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_asada_method</description>
+        <name>x_snc_asada_method</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-22 22:39:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6b22e15367112200016e5bb557415a17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_asada_method</sys_name>
+        <sys_package display_value="Asada" source="x_snc_asada">7c2ddd9bdb5daa00465bf8231f961921</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Asada">7c2ddd9bdb5daa00465bf8231f961921</sys_scope>
+        <sys_update_name>sys_security_acl_6b22e15367112200016e5bb557415a17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-22 22:39:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
