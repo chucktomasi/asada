@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Asada">252dd1dbdb5daa00465bf8231f9619cd</application>
+        <filter/>
+        <name>stuff</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_asada.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-22 22:17:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a92dd1dbdb5daa00465bf8231f9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stuff</sys_name>
+        <sys_package display_value="Asada" source="x_snc_asada">7c2ddd9bdb5daa00465bf8231f961921</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Asada">7c2ddd9bdb5daa00465bf8231f961921</sys_scope>
+        <sys_update_name>sys_ui_module_a92dd1dbdb5daa00465bf8231f9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-22 22:17:16</sys_updated_on>
+        <table>x_snc_asada_stuff</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
