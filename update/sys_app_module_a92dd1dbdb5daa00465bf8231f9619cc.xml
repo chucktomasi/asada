@@ -25,7 +25,7 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-22 22:17:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a92dd1dbdb5daa00465bf8231f9619cc</sys_id>

@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-22 22:35:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4f61651fdb5daa00465bf8231f9619a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_asada_burrito.x_snc_asada.user</sys_name>
